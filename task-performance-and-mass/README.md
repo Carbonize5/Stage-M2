@@ -21,10 +21,11 @@ This project require :
 
 ## Experimental Protocol
 
-## Usage
+### Usage
 When the project is launched, it starts with a training phase with infinite time. Press Space to start the experiment and to continue after changing the replica.
 
 After each validate target, data are record in the Unity's Persistent Data Path under "Fitts/XPLogs/Logs.csv". Each data type is separated with ";".
 
 ## Authors and acknowledgment
 Author : Lucas Thomesse [[mail](mailto:thomesse.lucas@outlook.fr)]
+Related article : [[here](https://hal.science/hal-04775036/document)]
