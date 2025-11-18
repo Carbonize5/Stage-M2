@@ -28,4 +28,5 @@ After each validate target, data are record in the Unity's Persistent Data Path 
 
 ## Authors and acknowledgment
 Author : Lucas Thomesse [[mail](mailto:thomesse.lucas@outlook.fr)]
+
 Related article : [[here](https://hal.science/hal-04775036/document)]
